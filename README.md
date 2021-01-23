@@ -1,5 +1,5 @@
 # django-shopcatalogue
-A Library Management System In Django runs Django Framework in back-end and HTML, CSS in front-end. The project contains all the features of a library management like login, interactive UI, issue books, Manage books, Add books to the library.
+An ecommerce website/app is a web site that can be used to do online commerce where a merchant can list products that he needs to sell to customers online and also provide them with the ability to buy the products.Django is one of the greatest web frameworks for Python language .It makes buidling web apps an easy task even if you are just beginning with Python language and web development .Once you grasp the required basics you can build a web app .Another great feature of Django is packages you can use them to extend the core functionality of the framework and you don't even need to develop them by yourself.The great and large community around it developed all kind of common packages you can think of.
 
 ## Requirements
   ```
@@ -158,9 +158,15 @@ zipp==1.0.0
 
 
 ## Features
-- Manage Books – In this feature the user can manage all the information of the books including, “add new book” , “update or modify book” and “delete book“.
-- Manage Users – In this feature the admin can manage all the information of users including, “add new user” , “update or modify user” and “delete user“.
-- Manage Students – In this feature the user can manage the list of the students.
+- Products listing and inventory management .
+
+- Documents such as orders,invoices etc .
+
+- Backend/User admin interface for adding products and tweak site wide and ecommerce related settings .
+
+- User and customer auth .
+
+- Shoping cart .
 - Login/Logout System – In this feature where the user can login and logout to the system.
 
 ## Python Version
@@ -168,11 +174,9 @@ zipp==1.0.0
 ## Operating System
 Linux (From Debian Family Ubuntu).
 
-## Method:
-- library management – This method is the main method of the system project.
-- management – In this method which is the management of the library system..
-- media – This method you can found the uploading media like “photos” or other media file.
-- template – This method id for the template design of the system including, “HTML“, “CSS” and etc.
+## Django Apps :
+- Apps in Django are pluggable web applications.
+- Django apps are the self-sufficient submodule of a project. A project can contain more than one apps, and an app can be used in more than more one project.
 
 
 ## Installation
