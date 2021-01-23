@@ -169,8 +169,9 @@ zipp==1.0.0
 - Shoping cart .
 - Login/Logout System – In this feature where the user can login and logout to the system.
 
-## Python Version
-  Python2 and Its Supported Package PIP, Developed on python2 and Reconfigured on Python3
+##  Version
+  - Python : 3.7
+  - Django : 2.1
 ## Operating System
 Linux (From Debian Family Ubuntu).
 
